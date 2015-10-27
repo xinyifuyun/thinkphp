@@ -1,0 +1,10 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: xu
+ * Date: 15-10-24
+ * Time: 上午11:03
+ */
+class File{
+
+}
